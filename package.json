@@ -1,0 +1,25 @@
+{
+  "name": "node-red-contrib-git",
+  "version": "0.0.1",
+  "description": "Git repository management for Node-RED",
+  "main": "git.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/high-u/node-red-contrib-git.git"
+  },
+  "keywords": [
+    "node-red",
+    "git",
+    "management",
+    "repository"
+  ],
+  "author": "high-u",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/high-u/node-red-contrib-git/issues"
+  },
+  "homepage": "https://github.com/high-u/node-red-contrib-git#readme"
+}
